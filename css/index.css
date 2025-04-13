@@ -4,17 +4,6 @@
 .website-hero {
 	padding: 20px;
 }
-.website-title {
-	font-size: 2em !important;
-	text-align: left;
-}
-.website-subtitle {
-	font-style: italic;
-	font-size: 15px;
-	text-align: right;
-	color: rgb(255, 255, 255);
-	margin-bottom: 0px;
-}
 .center {
 	text-align: center;
 }
@@ -34,7 +23,7 @@ a {
 	text-align: right;
 }
 :root {
-	--accent-color: rgb(88, 170, 190);
+	--accent-color: rgb(42, 159, 187);
 	--accent-color-alpha: rgba(88, 190, 103, 0.397);
 	--text-color: rgb(106, 106, 106);
 	--dark-color: rgb(49, 49, 49);
@@ -62,6 +51,19 @@ p {
 	font-style: normal;
 	color: var(--text-color);
 }
+.website-title {
+	font-family: var(--font-family) !important;
+	letter-spacing: 0.03em;
+	font-size: 2.75em !important;
+	text-align: left;
+}
+.website-subtitle {
+	font-style: italic;
+	font-size: 15px;
+	text-align: right;
+	color: rgb(255, 255, 255);
+	margin-bottom: 0px;
+}
 .section-header {
 	font-size: 2.5em;
 	color: var(--accent-color);
@@ -88,6 +90,9 @@ p {
 	border: 0.5px solid black;
 	border-radius: 1em;
 	padding: 1em;
+}
+.card-body p {
+	line-height: 1.5em;
 }
 .secondary-text {
 	font-size: 0.8em;
