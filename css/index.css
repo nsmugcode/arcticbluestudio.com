@@ -160,6 +160,16 @@ p {
 	font-weight: bold;
 	color: white;
 }
+.btn-accented {
+	background-color: var(--accent-color);
+	border-color: var(--accent-color);
+	color: white;
+}
+.btn-accented:hover {
+	background-color: var(--accent-color-alpha);
+	border-color: var(--accent-color-alpha);
+	color: white;
+}
 /* Footer */
 .main-footer {
 }
