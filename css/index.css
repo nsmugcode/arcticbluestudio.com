@@ -53,10 +53,14 @@ p {
 	font-style: normal;
 	color: var(--text-color);
 }
+.accented-text {
+	color: var(--accent-color);
+}
 .website-title {
+	margin-top: 0.75rem;
 	font-family: var(--font-family) !important;
 	letter-spacing: 0.03em;
-	font-size: 2.75em !important;
+	font-size: 2.5em !important;
 	text-align: left;
 }
 .website-subtitle {
