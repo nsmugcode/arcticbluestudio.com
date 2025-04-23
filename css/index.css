@@ -41,6 +41,7 @@ h1, h2, h3, h4, h5, h6 {
 	color: var(--accent-color);
 }
 h5 {
+	margin-top: 1rem;
 	font-size: 1.75em;
 }
 body {
