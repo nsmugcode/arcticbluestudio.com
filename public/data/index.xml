@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data on Arctic Blue Studio</title>
+    <link>http://localhost:1313/data/</link>
+    <description>Recent content in Data on Arctic Blue Studio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/data/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Management Experts</title>
+      <link>http://localhost:1313/data/data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/data/data/</guid>
+      <description>&lt;!-- Header --&gt;&#xA;&lt;div class=&#34;carousel slide&#34;&gt;&#xA;&#x9;&lt;div class=&#34;carousel-inner&#34;&gt;&#xA;&#x9;&#x9;&lt;div class=&#34;carousel-item active&#34;&gt;&#xA;&#x9;&#x9;&#x9;&lt;div class=&#34;&#34;&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&lt;img class=&#34;d-block w-100&#34; src=&#34;http://localhost:1313/images/header-ecommerce-2.jpg&#34; /&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&lt;div class=&#34;overlay&#34;&gt;&lt;/div&gt;&#xA;&#x9;&#x9;&#x9;&lt;/div&gt;&#xA;&#x9;&#x9;&#x9;&lt;div class=&#34;carousel-caption d-none d-md-block&#34;&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&lt;h2 class=&#34;text-white&#34;&gt;Arctic Blue Studio Consulting&lt;br&gt;&lt;span class=&#34;accented-text&#34;&gt;Proven Experience&lt;/span&gt;&lt;/h2&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&lt;p&gt;With over 10 years of experience in the Information Systems and Data Management space, we are uniquely skilled to solve all of your E-commerce needs.&lt;/p&gt;&#xA;&#x9;&#x9;&#x9;&lt;/div&gt;&#xA;&#x9;&#x9;&lt;/div&gt;&#xA;&#x9;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;container container-gapped-thin d-md-none&#34;&gt;&#xA;&#x9;&lt;div class=&#34;row&#34;&gt;&#xA;&#x9;&#x9;&lt;div class=&#34;col&#34;&gt;&#xA;&#x9;&#x9;&#x9;&lt;h2&gt;Arctic Blue Studio Consulting&lt;br&gt;&lt;span class=&#34;accented-text&#34;&gt;Proven Experience&lt;/span&gt;&lt;/h2&gt;&#xA;&#x9;&#x9;&#x9;&lt;p&gt;With over 10 years of experience in the Information Systems and Data Management space, we are uniquely skilled to solve complex business needs with robust solutions.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
