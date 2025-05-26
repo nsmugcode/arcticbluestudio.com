@@ -26,10 +26,18 @@
 				</button>
 				<div class="collapse navbar-collapse" id="navbarCollapse">
 					<ul class="navbar-nav ms-auto">
-						<li class="nav-item"><a class="nav-link" href="/data.html">E-commerce Management</a></li>
-						<li class="nav-item"><a class="nav-link" href="/dev-web.html">Web Design & Development</a></li>
-						<li class="nav-item"><a class="nav-link" href="/dev.html">Software Development</a></li>
-						<li class="nav-item hide">
+						<li class="nav-item dropdown">
+							<a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Services</a>
+							<ul class="dropdown-menu">
+								<li class="dropdown-item"><a class="nav-link" href="/data.html">E-commerce Management</a></li>
+								<li class="dropdown-item"><a class="nav-link" href="/dev-web.html">Web Design & Development</a></li>
+								<li class="dropdown-item"><a class="nav-link" href="/dev.html">Software Development</a></li>
+							</ul>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="/projects.html">Past Projects</a>
+						</li>
+						<li class="nav-item">
 							<a class="nav-link active" aria-current="page" href="https://forms.gle/JHWEGDRrkj7QkJYY6">Contact Us</a>
 						</li>
 					</ul>
@@ -174,7 +182,7 @@
 				</div>
 				<div class="col ">
 					<img class="img-fluid" height="800" src="/images/past_project_archive/kz_eic.png" />
-					<h2>Inventory File Automation (KZ EIC)</h2>
+					<h2>Inventory File Automation</h2>
 					<p>Automated CSV parser which took inventory counts and created vendor specific upload friendly inventory files</p>
 					<p>Tech Used: <i>Electron.js, Node, Javascript, HTML/CSS</i></p>
 				</div>
@@ -234,7 +242,7 @@
 				</div>
 				<div class="col ">
 					<img class="img-fluid" height="800" src="/images/past_project_archive/morpher.png" />
-					<h2>E-commerce Data Manager (Morpher/Crate Converter)</h2>
+					<h2>E-commerce Data Manager</h2>
 					<p>Large dataset platform which allows CSV parsing, standardizing, and export to predefined e-commerce friendly templates for use on The Home Depot, Lowes, Wayfair, and others</p>
 					<p>Tech Used: <i>Swift, SwiftUI</i></p>
 				</div>
@@ -285,6 +293,7 @@
 		</div>
 	</body>
 	<footer class="main-footer">
+		<script type="text/javascript" src="/frameworks/bootstrap/js/popper.min.js"></script>
 		<script type="text/javascript" src="/frameworks/bootstrap/js/bootstrap.bundle.js"></script>
 		<div class="container container-gapped-thin">
 			<div class="row footer-row-main">
