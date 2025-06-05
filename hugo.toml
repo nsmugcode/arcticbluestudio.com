@@ -1,0 +1,17 @@
+baseURL = 'https://arcticbluestudio.com/'
+languageCode = 'en-us'
+title = 'Arctic Blue Studio'
+
+theme = 'abs-2025'
+
+[[module.mounts]]
+source = 'static'
+target = 'static'
+
+[[module.mounts]]
+source = 'images'
+target = 'static/images'
+
+[caches]
+  [caches.images]
+	dir = ':cacheDir/images'

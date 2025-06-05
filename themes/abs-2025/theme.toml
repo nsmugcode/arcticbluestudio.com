@@ -1,0 +1,7 @@
+name = 'ABS 2025'
+description = 'Theme description'
+
+# If the theme has a single author
+[author]
+  name = 'Frank'
+  homepage = 'https://nsmug.com'
